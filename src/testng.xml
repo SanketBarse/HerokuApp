@@ -1,0 +1,7 @@
+<suite name="TestSuite">
+    <test name="HomeTest">
+        <classes>
+            <class name="com.heroku.app.pages.Home"/>
+        </classes>
+    </test>
+</suite>
